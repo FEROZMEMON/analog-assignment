@@ -1,0 +1,36 @@
+.a {
+    margin: 0% auto;
+}
+
+.c {
+    text-align: center;
+    padding: 2rem;
+    height: 600px;
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+
+}
+
+.b {
+    padding: 10rem;
+}
+
+.d {}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 25px
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+img {
+    display: inline;
+}
